@@ -14,6 +14,24 @@ Software developer focused on clean, maintainable web apps with Angular — with
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🎨 Frontend
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Angular CDK](https://img.shields.io/badge/Angular_CDK-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+![Angular SSR](https://img.shields.io/badge/Angular_SSR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### ⚙️ Backend
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge)
+
 ### 📡 Video & Streaming
 
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007ACC?style=for-the-badge&logo=ffmpeg&logoColor=white)
@@ -26,6 +44,20 @@ Software developer focused on clean, maintainable web apps with Angular — with
 ![hls.js](https://img.shields.io/badge/hls.js-BC7112?style=for-the-badge)
 ![HLS](https://img.shields.io/badge/HLS-007AFF?style=for-the-badge)
 ![DASH](https://img.shields.io/badge/MPEG--DASH-FF8800?style=for-the-badge)
+
+### 🐹 Go Services
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-009486?style=for-the-badge)
+
+### ☁️ Infra & DevOps
+
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
+![Taskfile](https://img.shields.io/badge/Taskfile-333333?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
