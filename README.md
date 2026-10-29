@@ -2,8 +2,6 @@
 
 Software developer focused on clean, maintainable web apps with Angular — with hands-on experience in video streaming (RTMP, SRT) across players and packaging (Shaka Player, Shaka Packager, Plyr) powered by FFmpeg.
 
-Currently building [IslaPlay](https://github.com/Islaplay-DMM) — a streaming platform with Angular frontend, Node/Express API, and Go services.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -61,17 +59,6 @@ Currently building [IslaPlay](https://github.com/Islaplay-DMM) — a streaming p
 ![Taskfile](https://img.shields.io/badge/Taskfile-333333?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [IslaPlay FRONTEND](https://github.com/Islaplay-DMM/islaplay-FRONTEND) | Frontend de la plataforma de streaming (Angular) | Angular, Tailwind, RxJS, Socket.IO |
-| [IslaPlay API](https://github.com/Islaplay-DMM/islaplay-API) | API de la plataforma de streaming (Node/Express) | Bun, Express, Prisma, PostgreSQL, Redis, BullMQ |
-| [IslaPlay ADMIN](https://github.com/Islaplay-DMM/islaplay-ADMIN) | Panel de administración (Angular) | Angular, Tailwind |
-| [rtmp-indexer-server](https://github.com/Islaplay-DMM/rtmp-indexer-server) | Servidor indexador RTMP (Go) | Go, Gin |
 
 ---
 
