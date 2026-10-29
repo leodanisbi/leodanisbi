@@ -1,29 +1,28 @@
-# Hi, I'm Leo 👋
+# Leodanis Bernal Ibañez
 
 Software developer focused on clean, maintainable web apps with Angular — with hands-on experience in video streaming (RTMP, SRT) across players and packaging (Shaka Player, Shaka Packager, Plyr) powered by FFmpeg.
 
+Currently building [IslaPlay](https://github.com/Islaplay-DMM) — a streaming platform with Angular frontend, Node/Express API, and Go services.
+
+---
+
 ## 🛠️ Tech Stack
+
+### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Frontend
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Angular CDK](https://img.shields.io/badge/Angular_CDK-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Angular SSR](https://img.shields.io/badge/Angular_SSR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -52,12 +51,29 @@ Software developer focused on clean, maintainable web apps with Angular — with
 
 ### ☁️ Infra & DevOps
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 ![Taskfile](https://img.shields.io/badge/Taskfile-333333?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [IslaPlay FRONTEND](https://github.com/Islaplay-DMM/islaplay-FRONTEND) | Frontend de la plataforma de streaming (Angular) | Angular, Tailwind, RxJS, Socket.IO |
+| [IslaPlay API](https://github.com/Islaplay-DMM/islaplay-API) | API de la plataforma de streaming (Node/Express) | Bun, Express, Prisma, PostgreSQL, Redis, BullMQ |
+| [IslaPlay ADMIN](https://github.com/Islaplay-DMM/islaplay-ADMIN) | Panel de administración (Angular) | Angular, Tailwind |
+| [rtmp-indexer-server](https://github.com/Islaplay-DMM/rtmp-indexer-server) | Servidor indexador RTMP (Go) | Go, Gin |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -66,6 +82,8 @@ Software developer focused on clean, maintainable web apps with Angular — with
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leodanisbi&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=leodanisbi&theme=tokyonight&hide_border=true)
+
+---
 
 ## 📫 Connect with me
 
